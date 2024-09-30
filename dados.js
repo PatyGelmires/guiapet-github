@@ -56,6 +56,12 @@ const bancoDadosApenasPET = {
             notaGoogle: "5.8",
             link: "https://clubedecaompo.com.br/hotel/hospedagem-individual-para-cachorro-em-sao-paulo.php"
         },
+        {
+            cidade: "Ilhabela",
+            nome: "Hotel Real Villa Bella",
+            notaGoogle: "4.7",
+            link: "https://www.booking.com/hotel/br/real-villa-bella.pt-br.html?checkin=2024-11-26checkout=2024-11-27&group_adults=2&group_children=0&no_rooms=1&selected_currency=BRL"
+        },
 
 
         // Adicione mais hotéis conforme necessário
